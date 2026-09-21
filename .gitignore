@@ -76,3 +76,7 @@ surefire-reports/
 *.pid
 *.seed
 *.cache
+
+.env
+.env.*
+!.env.example
